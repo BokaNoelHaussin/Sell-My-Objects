@@ -18,4 +18,4 @@ cd backend
 
 npm install
 
-npm run start# Sell-My-Objects
+npm run start
