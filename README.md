@@ -1,21 +1,36 @@
 # Sell-My-Objects
-Full stack web app avec Node.js, Express et MongoDB
-1. 
+
+# Une petite description du projet:
+Projet CRUD MEAN STACK : Full stack web app avec Node.js, Express, MongoDB et Angular
+
+# Démarrage
 Procéder comme suit : 
 
-cd frontend
+Télécharger ou cloner le projet;
 
-npm install
+a l'aide du terminal accéder au dossier frontend
 
-ng serve
+Tapez les commandes suivantes :
+ $ npm install
+
+ $ ng serve
 
 Accédez à http://localhost:4200 (Veillez à avoir toujours un terminal qui exécute ng serve)
 
-2. 
-Vous pouvez ensuite procéder comme suit
 
-cd backend
+a l'aide du terminal accéder au dossier frontend
 
-npm install
+Tapez les commandes suivantes :
+ $ npm install
 
-npm run start
+ $ npm run start
+
+# Fabriqué avec:
+HTML5
+CSS3
+Javascript
+Sass (préprocesseur CSS)
+MongoDB
+ANGULAR JS
+Node JS
+Express JS
